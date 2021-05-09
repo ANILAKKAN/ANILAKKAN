@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ANILAKKAN
 - 👀 i just started software and i am learning software languages
 - 🌱 I am currently learning the python language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (e mail : a.akkan3207@gmail.com)
 
 <!---
